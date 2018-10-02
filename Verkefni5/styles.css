@@ -47,6 +47,8 @@ main {
    font-size: 1.37rem;
    line-height: 1.37rem;
    padding: 1vmin;
+  
+   overflow-wrap: break-word; 
 
    font-weight: bold; 
 }
